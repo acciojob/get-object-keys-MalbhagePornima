@@ -1,7 +1,7 @@
 //your JS code here. If required.
-let student={
+const student = {
 	name:'pooja',
 }
-Object.prototype.getkeys=function(){
+Object.prototype.getKeys=function(){
 	return Object.keys(this);
 }
